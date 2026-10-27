@@ -1,0 +1,6 @@
+{
+  "name": "RetroStation - Multi-System Emulator & Gaming UI",
+  "description": "A clean, modern, and customizable retro gaming workstation UI for GBA, PS2, and NES with library management, controller bindings, and engine attributions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

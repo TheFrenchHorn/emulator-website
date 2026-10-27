@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Sample GBA Game (Place ROM in roms/sample.gba)",
+    "system": "Game Boy Advance",
+    "core": "gba",
+    "url": "roms/sample.gba"
+  },
+  {
+    "name": "Sample NES Game (Place ROM in roms/sample.nes)",
+    "system": "Nintendo Entertainment System",
+    "core": "nes",
+    "url": "roms/sample.nes"
+  },
+  {
+    "name": "Sample SNES Game (Place ROM in roms/sample.sfc)",
+    "system": "Super Nintendo",
+    "core": "snes",
+    "url": "roms/sample.sfc"
+  }
+]
